@@ -1,0 +1,5 @@
+c:\users\harry\documents\visual studio 2015\Projects\AccessDatebase\bin\Debug\AccessDatebase.dll
+c:\users\harry\documents\visual studio 2015\Projects\AccessDatebase\bin\Debug\AccessDatebase.pdb
+c:\users\harry\documents\visual studio 2015\Projects\AccessDatebase\obj\Debug\AccessDatebase.csprojResolveAssemblyReference.cache
+c:\users\harry\documents\visual studio 2015\Projects\AccessDatebase\obj\Debug\AccessDatebase.dll
+c:\users\harry\documents\visual studio 2015\Projects\AccessDatebase\obj\Debug\AccessDatebase.pdb
