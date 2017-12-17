@@ -24,7 +24,7 @@ C# Library to easily execute SQL queries to a Microsoft Access Database
 ```
 
 ------------
-#Code Example:
+# Code Examples:
 
 ```
         void ReadLogins()
@@ -40,3 +40,12 @@ C# Library to easily execute SQL queries to a Microsoft Access Database
         }
         
 ```        
+```
+
+        void AddNewLogin(string username, string password)
+        {
+            DatabaseConnection.Initialize(@"C:\database.accdb");
+            DatabaseConnection.SqlUpdate(string.Format("INSERT INTO clients([username], [password]) VALUES(\"{0}\", \"{1}\");",         username, password));
+        }
+
+```
